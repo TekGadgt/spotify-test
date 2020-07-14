@@ -1,36 +1,3 @@
-<div align="center">
-    <br>
-    <br>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/1">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/1" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/2">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/2" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/3">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/3" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/4">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/4" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/5">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/5" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/6">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/6" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/7">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/7" width="32" height="32">
-    </a>
-    <a href="https://spotify-test.tekgadgt.vercel.app/blocks/8">
-        <img src="https://spotify-test.tekgadgt.vercel.app/blocks/8" width="32" height="32">
-    </a>
-    <p align="center">Click and refresh to change block color</p>
-    <br>
-</div>
-
----
-
 **Now Playing** on Spotify
 
 <a href="https://spotify-test.tekgadgt.vercel.app/now-playing?open">
